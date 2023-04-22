@@ -95,7 +95,7 @@ function Team() {
               margin: "40px auto",
             }}
           />
-           <Link to={'/Trainer'} className="link-tag"> <button className={style.btnTeam}  >Back</button> </Link>
+           <Link to={'/Trainer'} className="link-tag"> <button className='btnTeam ' >Back</button> </Link>
         </div>
       </div>
     </div>
