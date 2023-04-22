@@ -27,6 +27,12 @@
     border-radius: 0 3px 3px 0;
     user-select: none;
   }
+.btnTeam{
+    width:10%;
+    height:25px;
+    background-color: maroon;
+    color : white;
+}
   
   .next {
     right: 0;
