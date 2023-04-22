@@ -104,6 +104,7 @@ function Tranning() {
               margin: "40px auto",
             }}
           />
+<br/><br/><br/>
         </div>
       </div>
     </div>
